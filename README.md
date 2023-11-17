@@ -1,6 +1,5 @@
 # CodSoft-Task-1
 import java.util.*;
-<br>
 public class NumGame {
     public static void main(String[] args) {
         int guess,number;
